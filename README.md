@@ -23,3 +23,5 @@ Results:
 
 2- [Results for radius: 500 meters and 50 most frequent Points Of Interests (POIs)](https://sevamoo.github.io/reference_project/mapboxgl_cluster50.html)
 
+3- [Results for radius: 800 meters and 50 most frequent Points Of Interests (POIs)](https://sevamoo.github.io/reference_project/mapboxgl_cluster50_800.html)
+
