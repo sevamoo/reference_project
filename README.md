@@ -10,10 +10,12 @@
 - [The 50 most frquent POIs in North-America](https://github.com/sevamoo/reference_project/blob/master/data/north-america_POIs_sorted.csv) 
 
 
-## `Free variables to play with: 
+## Free variables to play with: 
+	```
 	- POIs: How many most frequents? Or just choosing some of them manually?
 	- Radius for search?
-	- What would be the similarity threshold to choose a certain area as a long list? At the moment I chose them manually.`
+	- What is the similarity threshold to choose an area as a candidate? Now I chose them manually.
+	```
 
 
 
