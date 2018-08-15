@@ -29,9 +29,9 @@
 
 
 
-##Warning
+## Warning
 
-The interactive maps could be confusing and you might realize spending time just looking from one point to another point. :)
+- The interactive maps could be confusing and you might realize spending time just looking from one point to another point. :)
 
 
 
