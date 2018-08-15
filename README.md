@@ -11,11 +11,11 @@
 
 
 ## Free variables to play with: 
-	```
+	`
 	- POIs: How many most frequents? Or just choosing some of them manually?
 	- Radius for search?
 	- What is the similarity threshold to choose an area as a candidate? Now I chose them manually.
-	```
+	`
 
 
 
