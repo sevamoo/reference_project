@@ -29,7 +29,7 @@
 
 
 
-## Warning
+## Some points on the interactive maps prepared to look at the results
 
 - The interactive maps could be confusing and you might realize spending time just looking from one point to another point. :)
 
