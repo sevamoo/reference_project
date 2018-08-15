@@ -38,6 +38,8 @@
 - Interactive maps show the clusters of points. If you reach to the a single point, click on the circle and there is a link in the popup menue taking you to 3D Google maps.
 
 
+----
+----
 1- Radius: 300 meters and 30 most frequent Points Of Interests (POIs) 
 - [Interactive map](https://sevamoo.github.io/reference_project/mapboxgl_cluster30_300.html)
 - [CSV file](https://github.com/sevamoo/reference_project/blob/master/data/similarpoints_all_47.38675740000001_8.516673500000024_r_300_no_keys_30_no_points_5838.csv)
