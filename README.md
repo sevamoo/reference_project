@@ -22,6 +22,22 @@
 ***
 ## Results:
 
+
+### My quick impression (not necessarily corect)
+```
+30 features and 300 meters in Europe finds very similar locations in terms of distance to the main rail road node similar to the case in Hardbrücke, but in North American in my opinion 500 meters with 50 features gives better results. 
+```
+
+
+```
+**Warning:** The interactive maps could be confusing and you might realize spending time just looking from one point to another point. :)
+```
+
+```
+Interactive maps show the clusters of points. If you reach to the a single point, click on the circle and there is a link in the popup menue taking you to 3D Google maps.
+```
+
+
 1- Radius: 300 meters and 30 most frequent Points Of Interests (POIs) 
 - [Interactive map](https://sevamoo.github.io/reference_project/mapboxgl_cluster30_300.html)
 - [CSV file](https://github.com/sevamoo/reference_project/blob/master/data/similarpoints_all_47.38675740000001_8.516673500000024_r_300_no_keys_30_no_points_5838.csv)
@@ -37,7 +53,7 @@
 
 ****
 
-### A quick impression (not necessarily corect): 30 features and 300 meters in Europe finds very similar locations in terms of distance to the main rail road node similar to the case in Hardbrücke, but in North American in my opinion 500 meters with 50 features gives better results. 
+
 
 
 
