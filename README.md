@@ -44,14 +44,14 @@
 - [Interactive map](https://sevamoo.github.io/reference_project/mapboxgl_cluster30_300.html)
 - [CSV file](https://github.com/sevamoo/reference_project/blob/master/data/similarpoints_all_47.38675740000001_8.516673500000024_r_300_no_keys_30_no_points_5838.csv)
 
-2- Radius: 500 meters and 30 most frequent Points Of Interests (POIs) for Europe and 50 for north-america
+<!-- 2- Radius: 500 meters and 30 most frequent Points Of Interests (POIs) for Europe and 50 for north-america
 - [Interactive map](https://sevamoo.github.io/reference_project/mapboxgl_cluster30.html)
 - [CSV file](https://github.com/sevamoo/reference_project/blob/master/data/similarpoints_all_47.38675740000001_8.516673500000024_r_500_no_keys_30_no_points_1300.csv)
+ -->
 
-
-3- Radius: 500 meters and 50 most frequent Points Of Interests (POIs) 
-- [Interactive map](https://sevamoo.github.io/reference_project/mapboxgl_cluster50.html)
-- [CSV file](https://github.com/sevamoo/reference_project/blob/master/data/similarpoints_all_47.38675740000001_8.516673500000024_r_500_no_keys_50_no_points_2574.csv)
+2- Radius: 500 meters and 50 most frequent Points Of Interests (POIs) 
+- [Interactive map](https://sevamoo.github.io/reference_project/mapboxgl_cluster50_500.html)
+- [CSV file](https://github.com/sevamoo/reference_project/blob/master/data/similarpoints_all_47.38675740000001_8.516673500000024_r_500_no_keys_50_no_points_4721.csv)
 
 ----
 ----
@@ -65,6 +65,11 @@
 1- Radius: 300 meters and 30 most frequent Points Of Interests (POIs) 
 - [Interactive map](https://sevamoo.github.io/reference_project/mapboxgl_construction_cluster30_300.html)
 - [CSV file](https://github.com/sevamoo/reference_project/blob/master/data/similar_construction_points_planet_47.38675740000001_8.516673500000024_r_300_no_keys_30_no_points_845.csv)
+
+
+2- Radius: 500 meters and 50 most frequent Points Of Interests (POIs) 
+- [Interactive map](https://sevamoo.github.io/reference_project/mapboxgl_construction_cluster50_500.html)
+- [CSV file](https://github.com/sevamoo/reference_project/blob/master/data/similar_construction_points_planet_47.38675740000001_8.516673500000024_r_500_no_keys_50_no_points_706.csv)
 
 
 ----
