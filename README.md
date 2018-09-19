@@ -72,6 +72,11 @@
 - [CSV file](https://github.com/sevamoo/reference_project/blob/master/data/similar_construction_points_planet_47.38675740000001_8.516673500000024_r_500_no_keys_50_no_points_706.csv)
 
 
+2_1: In the case of construction data I perform the whole analysis for the whole planet. Just realized that in this case all the similar ones are from Europe mainly. Here I did it once for north america
+- [Interactive map](https://sevamoo.github.io/reference_project/mapboxgl_construction_cluster50_500_NA.html)
+- [CSV file](https://github.com/sevamoo/reference_project/blob/master/data/similar_construction_points_planet_47.38675740000001_8.516673500000024_r_500_no_keys_50_no_points_251_north-america.csv)
+
+
 ----
 ----
 
