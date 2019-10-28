@@ -1,13 +1,6 @@
 # Reference Project
 ***
 
-- The encoding we used for Points Of Interests (POIs) for this study are [here](https://github.com/sevamoo/reference_project/blob/master/data/poi_types.csv)
-
-
-- [The 50 most frquent POIs in Europe](https://github.com/sevamoo/reference_project/blob/master/data/europe_POIs_sorted.csv) 
-
-
-- [The 50 most frquent POIs in North-America](https://github.com/sevamoo/reference_project/blob/master/data/north-america_POIs_sorted.csv) 
 
 
 ## Free variables to play with: 
@@ -23,11 +16,6 @@
 ## Results:
 
 
-### My quick impression (not necessarily corect)
-
-30 features and 300 meters in Europe finds very similar locations in terms of distance to the main rail road node similar to the case in Hardbrücke, but in North American in my opinion 500 meters with 50 features gives better results. 
-
-
 
 ## Some points on the interactive maps prepared to look at the results
 
@@ -40,41 +28,12 @@
 
 ----
 ----
-1- Radius: 300 meters and 30 most frequent Points Of Interests (POIs) 
-- [Interactive map](https://sevamoo.github.io/reference_project/mapboxgl_cluster30_300.html)
-- [CSV file](https://github.com/sevamoo/reference_project/blob/master/data/similarpoints_all_47.38675740000001_8.516673500000024_r_300_no_keys_30_no_points_5838.csv)
 
-<!-- 2- Radius: 500 meters and 30 most frequent Points Of Interests (POIs) for Europe and 50 for north-america
-- [Interactive map](https://sevamoo.github.io/reference_project/mapboxgl_cluster30.html)
-- [CSV file](https://github.com/sevamoo/reference_project/blob/master/data/similarpoints_all_47.38675740000001_8.516673500000024_r_500_no_keys_30_no_points_1300.csv)
- -->
-
-2- Radius: 500 meters and 50 most frequent Points Of Interests (POIs) 
-- [Interactive map](https://sevamoo.github.io/reference_project/mapboxgl_cluster50_500.html)
-- [CSV file](https://github.com/sevamoo/reference_project/blob/master/data/similarpoints_all_47.38675740000001_8.516673500000024_r_500_no_keys_50_no_points_4721.csv)
-
-----
-----
-
-
-# Results based on just construction sites
-
-----
-----
-
-1- Radius: 300 meters and 30 most frequent Points Of Interests (POIs) 
-- [Interactive map](https://sevamoo.github.io/reference_project/mapboxgl_construction_cluster30_300.html)
-- [CSV file](https://github.com/sevamoo/reference_project/blob/master/data/similar_construction_points_planet_47.38675740000001_8.516673500000024_r_300_no_keys_30_no_points_845.csv)
-
-
-2- Radius: 500 meters and 50 most frequent Points Of Interests (POIs) 
-- [Interactive map](https://sevamoo.github.io/reference_project/mapboxgl_construction_cluster50_500.html)
-- [CSV file](https://github.com/sevamoo/reference_project/blob/master/data/similar_construction_points_planet_47.38675740000001_8.516673500000024_r_500_no_keys_50_no_points_706.csv)
-
-
-2_1: In the case of construction data I perform the whole analysis for the whole planet. Just realized that in this case all the similar ones are from Europe mainly. Here I did it once for north america
-- [Interactive map](https://sevamoo.github.io/reference_project/mapboxgl_construction_cluster50_500_NA.html)
-- [CSV file](https://github.com/sevamoo/reference_project/blob/master/data/similar_construction_points_planet_47.38675740000001_8.516673500000024_r_500_no_keys_50_no_points_251_north-america.csv)
+1- [Klybeck_Basel](https://sevamoo.github.io/reference_project/Klybeck_Basel.html)
+2- [Porta_Nuova_Milan](https://sevamoo.github.io/reference_project/Porta_Nuova_Milan.html)
+3- [Hamburg_Hafen_City](https://sevamoo.github.io/reference_project/Hamburg_Hafen_City.html)
+4- [Promenady_Wroclawskie](https://sevamoo.github.io/reference_project/Promenady_Wroclawskie.html)
+5- [Eurovea_Riverfront](https://sevamoo.github.io/reference_project/Eurovea_Riverfront.html)
 
 
 ----
